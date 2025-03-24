@@ -28,6 +28,9 @@ This project computes the path a drone would take between a series of waypoints,
 
 ---
 
-## 📺 Simulation Example
-Link Real Time Simulation: https://youtu.be/22to6lWYYkI?si=6rfrAwKVQOrS-PPw
+## 📺 Simulation Example 
+Route Overview and Time Deviation between RealTelemetry & Simulated
+- Link Real Time Simulation: https://youtu.be/22to6lWYYkI?si=6rfrAwKVQOrS-PPw
+
+![Turn Simulation Example](FP_PAN3/RouteSimulation.png "Route Overview and Time Deviation between RealTelemetry & Simulated")
 
