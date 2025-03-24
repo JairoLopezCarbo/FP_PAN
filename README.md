@@ -20,8 +20,14 @@ This project computes the path a drone would take between a series of waypoints,
 
 ---
 
-## 📺 YouTube Examples
+## 🔮 Future Improvements
 
-1. Basic turn‑focused trajectory simulation: https://youtu.be/1aBcDeFgHIJ  
-2. Real vs. simulated telemetry comparison: https://youtu.be/2KlMnOpQrSt  
-3. Complex paths with adjustable turn radii: https://youtu.be/3UvWxYzAbCd
+- Add additional drone parameters (mass, aerodynamics, wind, vertical acceleration/deceleration)  
+- Generate drone‑specific flight profiles based on real turn behavior  
+- Optimize trajectories for reduced energy consumption or shorter flight time  
+
+---
+
+## 📺 Simulation Example
+Link Real Time Simulation: https://youtu.be/22to6lWYYkI?si=6rfrAwKVQOrS-PPw
+
