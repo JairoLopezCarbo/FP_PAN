@@ -1,6 +1,6 @@
 # Drone Flight Simulator
 
-A Python-based simulator that models a drone’s realistic trajectory following a given flight plan.
+A Python-based simulator that models a drone’s realistic trajectory following a given flight plan with smooth turns.
 
 ---
 
